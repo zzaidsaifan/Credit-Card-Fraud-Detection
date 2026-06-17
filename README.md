@@ -1,10 +1,5 @@
 # 💳 Credit Card Fraud Detection Using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ---
 
 # 📌 Project Overview
